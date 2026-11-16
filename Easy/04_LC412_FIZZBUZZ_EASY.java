@@ -8,7 +8,6 @@ class LC412_FIZZBUZZ_EASY {
         int i =1;
         List<String> ans = new ArrayList<>();
         
-        boolean check = false;
         while(i<=n)
         {   
             String temp = "";
